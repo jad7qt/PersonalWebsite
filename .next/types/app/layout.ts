@@ -1,4 +1,4 @@
-// File: /Users/jareddutt/Documents/GitHub/PersonalWebsite/src/app/layout.js
+// File: C:\Users\DuttJ\Documents\GitHub\PersonalWebsite\src\app\layout.js
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
